@@ -1,6 +1,6 @@
 # Yuchen Luan
 
-**Student**  
+**School**  
 School of Cyberspace Security, Shandong University
 
 📧 **Email:** [lyclyclyc0109@gmail.com](mailto:lyclyclyc0109@gmail.com)  
@@ -10,7 +10,6 @@ School of Cyberspace Security, Shandong University
 
 ## 👨‍🎓 About Me
 
-**English:**  
 Graduating with a Bachelor’s degree from the School of Cyberspace Security at Shandong University and currently pursuing a Ph.D. at Shandong University, specialising in the cryptanalysis of symmetric ciphers, Meet-in-the-Middle attacks and the security analysis of hash functions.
 
 
