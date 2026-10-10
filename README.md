@@ -1,4 +1,4 @@
-# Yuchen Luan (栾禹辰)
+# Yuchen Luan
 
 **Student**  
 School of Cyberspace Security, Shandong University
